@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: xn--l8jeg
+    name: xn--hi7j
     env: python
     region: Oregon
     plan: free
