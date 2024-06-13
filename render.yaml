@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: xn--hi7j
+    name: Apprentissage-proactif
     env: python
     region: Oregon
     plan: free
